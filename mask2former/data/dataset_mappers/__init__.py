@@ -1,0 +1,7 @@
+from .few_shot_mapper_stage1 import FewShotDatasetMapper_stage1
+from .few_shot_mapper_stage2 import FewShotDatasetMapper_stage2
+from .few_shot_mapper_stage1_change import FewShotDatasetMapper_stage1 as FewShotDatasetMapper_stage1_change
+from .few_shot_mapper_stage2_change import FewShotDatasetMapper_stage2 as FewShotDatasetMapper_stage2_change
+from .few_shot_mapper_u import FewShotDatasetMapper_u
+
+from .few_shot_mapper_stage_base import FewShotDatasetMapper_stage_base
